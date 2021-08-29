@@ -1,4 +1,3 @@
-// const atendimentos = require('../controllers/atendimentos')
 const conexao = require('../infraestrutura/conexao')
 
 class Atendimento {
